@@ -14,7 +14,7 @@
   "browser_action": {
     "browser_style": true,
     "default_icon": {
-      "48": "icon.png"
+      "48": "assets/icon.png"
     },
     "default_popup": "popup.html",
     "default_title": "Browser Cursor Changer"

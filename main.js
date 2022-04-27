@@ -5,7 +5,7 @@ document.addEventListener('keydown', logKey);
 const themes = {
     'dawn': {
         images: {
-            theme_frame: 'dawn.png',
+            theme_frame: 'assets/dawn.png',
         },
         colors: {
             frame: '#FCFAFA',
@@ -15,7 +15,7 @@ const themes = {
 
     'daytime': {
         images: {
-            theme_frame: 'daytime.png',
+            theme_frame: 'assets/daytime.png',
         },
         colors: {
             frame: '#FCFAFA',
@@ -25,7 +25,7 @@ const themes = {
 
     'dusk': {
         images: {
-            theme_frame: 'dusk.png',
+            theme_frame: 'assets/dusk.png',
         },
         colors: {
             frame: '#FCFAFA',
@@ -35,7 +35,7 @@ const themes = {
 
     'night': {
         images: {
-            theme_frame: 'night.png',
+            theme_frame: 'assets/night.png',
         },
         colors: {
             frame: '#FCFAFA',
