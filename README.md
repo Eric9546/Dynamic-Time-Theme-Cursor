@@ -9,7 +9,7 @@ Link to Mozilla Firefox Add On Page: https://addons.mozilla.org/en-US/firefox/ad
 
 Frameworks: Bootstrap
 
-Languages: HTML, CSS, JavaScript
+Programming Languages: HTML, CSS, JavaScript
 
 **Functionalities**
 
