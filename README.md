@@ -3,6 +3,8 @@
 
 It is a Mozilla Firefox web extension which allows the user to change the browser theme and cursor automatically based on the user&#39;s machine time. The theme includes dawn, daytime, dusk and night. The browser theme and cursor will change to represent the current theme. The user can also choose to activate or deactivate the cursor&#39;s theme using the keyboard function keys.
 
+Link to Mozilla Firefox Add On Page:https://addons.mozilla.org/en-US/firefox/addon/dynamic-time-theme-cursor/
+
 **Web Extension Specifications**
 
 Frameworks: Bootstrap
